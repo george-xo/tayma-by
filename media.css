@@ -1,0 +1,6 @@
+@media (max-width: 1400px){
+    .preview-header-bar{
+      flex-wrap: wrap;
+      padding:0 120px 0 120px;
+    }
+  }
